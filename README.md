@@ -31,17 +31,13 @@ The dataset used in this task contains country-wise population data collected fr
 - Observed patterns and trends in the data
 
 
-\### Tools \& Technologies
+### Tools & Technologies
 
-\- Python
-
-\- Pandas
-
-\- Matplotlib
-
-\- Seaborn
-
-\- Jupyter Notebook
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
 
 
